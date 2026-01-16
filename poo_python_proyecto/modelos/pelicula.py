@@ -1,5 +1,5 @@
-# Clase base Persona
-# Aplica encapsulación y define atributos y métodos
+
+# Clase derivada que aplica herencia y polimorfismo
 
 from modelos.contenido import Contenido
 
