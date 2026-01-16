@@ -1,3 +1,4 @@
+# Clase base que define atributos y métodos comunes
 from modelos.pelicula import Pelicula
 
 class GestorContenido:
