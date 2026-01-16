@@ -1,3 +1,4 @@
+# Estructura base del proyecto POO
 # Clase base
 class Contenido:
     def __init__(self, titulo, duracion):
