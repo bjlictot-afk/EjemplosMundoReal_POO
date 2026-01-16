@@ -1,3 +1,4 @@
+# Clase derivada que sobrescribe métodos (polimorfismo)
 # Clase base que define atributos y métodos comunes
 from modelos.pelicula import Pelicula
 

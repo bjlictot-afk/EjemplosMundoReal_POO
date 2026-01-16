@@ -1,4 +1,4 @@
-# Estructura base del proyecto POO
+# Clase base que define atributos y métodos comunes
 # Clase base
 class Contenido:
     def __init__(self, titulo, duracion):
