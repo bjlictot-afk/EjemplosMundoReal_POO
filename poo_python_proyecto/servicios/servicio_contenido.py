@@ -1,5 +1,4 @@
-# Clase derivada que sobrescribe métodos (polimorfismo)
-# Clase base que define atributos y métodos comunes
+# Clase de servicio que gestiona la creación de contenidos
 from modelos.pelicula import Pelicula
 
 class GestorContenido:
