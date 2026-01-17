@@ -1,3 +1,4 @@
+# Archivo principal para la ejecución del sistema
 from servicios.servicio_contenido import GestorContenido
 
 gestor = GestorContenido()
